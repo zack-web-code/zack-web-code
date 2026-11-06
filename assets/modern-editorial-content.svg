@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="950" viewBox="0 0 1280 950" role="img" aria-labelledby="title desc">
+<title id="title">Khethukhanyo Mbekeni — about, technologies and selected work</title>
+<desc id="desc">Modern editorial profile content in warm ivory, with technology chips and featured projects VYBE, LUMEN and Portfolio.</desc>
+<rect width="1280" height="950" rx="12" fill="#f8f8f6"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="85" fill="#242a30" font-size="34" font-weight="700">A little about me</text>
+<g fill="#646c72" font-size="21">
+<text x="64" y="134">I'm a Business Information Technology student at the University of Johannesburg.</text>
+<text x="64" y="170">I enjoy creating functional, intuitive experiences and understanding the real</text>
+<text x="64" y="206">business problems behind them.</text>
+</g>
+<path d="M64 253H1216" stroke="#dedfda"/>
+<text x="64" y="310" fill="#242a30" font-size="34" font-weight="700">Technologies &amp; tools</text>
+<g font-size="17" text-anchor="middle" fill="#465057">
+<g fill="#eeefec" stroke="#dfe0dc"><rect x="64" y="338" width="112" height="44" rx="6"/><rect x="190" y="338" width="105" height="44" rx="6"/><rect x="309" y="338" width="151" height="44" rx="6"/><rect x="474" y="338" width="108" height="44" rx="6"/><rect x="596" y="338" width="164" height="44" rx="6"/><rect x="774" y="338" width="86" height="44" rx="6"/><rect x="874" y="338" width="80" height="44" rx="6"/><rect x="968" y="338" width="115" height="44" rx="6"/><rect x="64" y="397" width="106" height="44" rx="6"/><rect x="184" y="397" width="126" height="44" rx="6"/><rect x="324" y="397" width="155" height="44" rx="6"/><rect x="493" y="397" width="125" height="44" rx="6"/></g>
+<text x="120" y="366">HTML5</text><text x="242" y="366">CSS3</text><text x="384" y="366">JavaScript</text><text x="528" y="366">React</text><text x="678" y="366">React Native</text><text x="817" y="366">SQL</text><text x="914" y="366">Git</text><text x="1025" y="366">GitHub</text><text x="117" y="425">Figma</text><text x="247" y="425">Power BI</text><text x="401" y="425">SQL Server</text><text x="556" y="425">VS Code</text>
+</g>
+<path d="M64 470H1216" stroke="#dedfda"/>
+<text x="64" y="521" fill="#242a30" font-size="34" font-weight="700">Selected work</text>
+<text x="1216" y="521" fill="#92948f" font-size="17" text-anchor="end">01 — 03</text>
+<g fill="#fff" stroke="#e2e3de"><rect x="64" y="545" width="364" height="292" rx="10"/><rect x="458" y="545" width="364" height="292" rx="10"/><rect x="852" y="545" width="364" height="292" rx="10"/></g>
+<g fill="#9a7d58" font-size="15" font-weight="700" letter-spacing="1"><text x="88" y="589">01 / WEB APPLICATION</text><text x="482" y="589">02 / DIGITAL EXPERIENCE</text><text x="876" y="589">03 / PERSONAL BRAND</text></g>
+<g fill="#242a30" font-weight="700" font-size="32"><text x="88" y="645">VYBE</text><text x="482" y="645">LUMEN</text><text x="876" y="645">Portfolio</text></g>
+<g fill="#687077" font-size="19">
+<text x="88" y="687">A modern music player with</text><text x="88" y="720">audio visuals and personal</text><text x="88" y="753">music libraries.</text>
+<text x="482" y="687">An elegant art gallery with</text><text x="482" y="720">curated collections and</text><text x="482" y="753">interactive viewing.</text>
+<text x="876" y="687">A responsive site showcasing</text><text x="876" y="720">my projects, skills and</text><text x="876" y="753">development journey.</text></g>
+<g fill="#9a7d58" font-size="17" font-weight="700"><text x="88" y="807">Explore project ↗</text><text x="482" y="807">Explore project ↗</text><text x="876" y="807">Explore project ↗</text></g>
+<path d="M64 882H1216" stroke="#dedfda"/>
+<g font-size="18" fill="#777d80"><text x="64" y="923">Design with intention. Build with purpose.</text><text x="1216" y="923" text-anchor="end">GitHub · LinkedIn · Portfolio</text></g>
+</g>
+</svg>
